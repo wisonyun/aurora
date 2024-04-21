@@ -9,7 +9,7 @@ on:
   workflow_dispatch:
 
 env:
-  GHCR_REPO: ghcr.io/wisonli/aurora
+  GHCR_REPO: ghcr.io/wisonyun/aurora
 
 jobs:
   main:
